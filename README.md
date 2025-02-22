@@ -1,6 +1,6 @@
-## gay 👋
+## gay
 
-i shit post
+i shitpost codes on github
 <!--
 **negi714/negi714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
